@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "create-react-app exercicios"
+    "start": "create-react-app calculadora"
   },
   "keywords": [],
   "author": "",
